@@ -8,12 +8,12 @@ on:
         required: false
       KERNEL_TREE:
         description: 'Kernel Tree'
-        default: 'https://github.com/itisFarzin/kernel_daria_mt6877'
+        default: 'https://github.com/itisFarzin-phone/kernel_daria_mt6877'
         required: true
       KERNEL_TREE_BRANCH:
         description: 'Kernel Tree Branch'
         required: true
-        default: 'zahedan-ksu'
+        default: 'Rana-2.2'
       CODENAME:
         description: 'Phone Codename'
         default: 'k6877v1_64_k419'
